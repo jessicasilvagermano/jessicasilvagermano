@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/jessica-silva-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<a><img src="https://drive.google.com/drive/u/0/my-drive"></a>
+<a><img src="https://drive.google.com/file/d/1GPX1PLGTeqIYg4bLFsc1SSgkz6gsmG30/view?usp=sharing"></a>
 
 ### Estou estudando essas tecnologias 🚀
 HTML <i class="devicon-html5-plain-wordmark colored"></i>
