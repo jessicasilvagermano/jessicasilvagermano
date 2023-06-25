@@ -5,7 +5,9 @@
 </div>
 
 ### Estou estudando essas tecnologias 🚀
-HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40" />
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40" />
+   
           
 CSS <i class="devicon-css3-plain-wordmark colored"></i>
 Javascript <i class="devicon-javascript-plain colored"></i>
