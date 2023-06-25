@@ -11,7 +11,7 @@ HTML | CSS | Javascript | Typescript | Reagir JS | Bootstrap | Figma | Git | Git
         
           
 ### Um pouco sobre mim     
-- 🎓 Internet Systems Student
+- 🎓 Internet Systems STUDENT
 - 🌐 Passionate about web development
 - 💡 Loves learning, coffee and a good challenge
 
