@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/jessica-silva-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<a><img src="https://drive.google.com/drive/u/0/my-drive"</a>
+<a><img src="https://drive.google.com/drive/u/0/my-drive"></a>
 
 ### Estou estudando essas tecnologias 🚀
 HTML <i class="devicon-html5-plain-wordmark colored"></i>
@@ -27,6 +27,6 @@ GitHub <i class="devicon-github-original-wordmark colored"></i>
 
 <div>
 <a href="https://github.com/jessicasilvagermano">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?jessicasilvagermano&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicasilvagermano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
