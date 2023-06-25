@@ -6,8 +6,8 @@
 
 ### Estou estudando essas tecnologias 🚀
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" width="40" height="40" />
-</div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+       
           
 CSS <i class="devicon-css3-plain-wordmark colored"></i>
 Javascript <i class="devicon-javascript-plain colored"></i>
@@ -19,7 +19,7 @@ Figma <i class="devicon-figma-plain colored"></i>
 Git<i class="devicon-git-plain-wordmark colored"></i>      
 GitHub <i class="devicon-github-original-wordmark colored"></i>
           
-          
+  </div>        
           
 ### Um pouco sobre mim     
 - 🎓 Internet Systems Student
