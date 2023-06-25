@@ -5,9 +5,9 @@
 </div>
 
 ### Estou estudando essas tecnologias 🚀
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40" />
-   
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40" />
+</div>
           
 CSS <i class="devicon-css3-plain-wordmark colored"></i>
 Javascript <i class="devicon-javascript-plain colored"></i>
